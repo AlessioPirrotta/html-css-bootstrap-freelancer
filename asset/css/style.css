@@ -23,6 +23,14 @@ img{
     scale: .5
 }
 
+._scale3{
+    scale: 1.2
+}
+
+._color{
+    color: #1abc9c;
+}
+
 ._wi50{
     width: 50px;
 }
@@ -49,6 +57,11 @@ hr{
 .btn{
     width: 100px;
 
+}
+
+#circle{
+    width: 50px;
+    aspect-ratio: 1;
 }
 
 
