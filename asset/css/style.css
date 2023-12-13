@@ -5,6 +5,7 @@ box-sizing: border-box;
 }
 
 
+
 img{
     display: block;
 }
@@ -64,6 +65,18 @@ hr{
 #circle{
     width: 50px;
     aspect-ratio: 1;
+}
+
+#download{
+    width: 150px;
+    height: 50px;
+    background-color: #1abc9c;
+    color: white;
+    border: white 2px solid;
+}
+
+._w288{
+    width: 288px;
 }
 
 
