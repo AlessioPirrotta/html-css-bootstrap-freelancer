@@ -3,6 +3,8 @@ margin: 0;
 padding: 0;
 box-sizing: border-box;
 }
+
+
 img{
     display: block;
 }
@@ -27,6 +29,10 @@ img{
     scale: 1.2
 }
 
+._filter{
+    filter: invert(100%);
+}
+
 ._color{
     color: #1abc9c;
 }
@@ -49,10 +55,6 @@ hr{
     display: inline-block;
 }
 
-.car{
-    width: 450px;
-    padding: 0px;
-}
 
 .btn{
     width: 100px;
